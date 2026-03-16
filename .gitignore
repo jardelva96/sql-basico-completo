@@ -6,6 +6,10 @@
 *.sqlite
 *.sqlite3
 
+# Arquivos do livro (não publicar no repo público)
+*.docx
+livro_texto.txt
+
 # Sistema
 .DS_Store
 Thumbs.db

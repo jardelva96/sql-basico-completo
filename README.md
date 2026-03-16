@@ -36,8 +36,8 @@ Aqui você encontra:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/jardelalves/sql-basico-avancado.git
-cd sql-basico-avancado
+git clone https://github.com/jardelva96/sql-basico-completo.git
+cd sql-basico-completo
 
 # 2. Crie o banco de dados e popule com dados
 sqlite3 loja.db < scripts/cap01-introducao/00_setup_completo.sql
@@ -154,8 +154,8 @@ Você precisa de **apenas um** dos seguintes:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/jardelalves/sql-basico-avancado.git
-cd sql-basico-avancado
+git clone https://github.com/jardelva96/sql-basico-completo.git
+cd sql-basico-completo
 
 # 2. Crie o banco com todos os dados
 sqlite3 loja.db < scripts/cap01-introducao/00_setup_completo.sql
