@@ -231,7 +231,6 @@ O banco usado ao longo do livro simula uma loja online com as seguintes tabelas:
 **Jardel Alves** — Desenvolvedor Full Stack e autor de livros técnicos.
 
 - 📧 jardel.va96@gmail.com
-- 📚 [Amazon KDP](https://www.amazon.com.br/s?k=Jardel+Alves) — Mais livros do autor
 - 💼 Florianópolis, SC — Brasil
 
 ---
