@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">📊 SQL: Do Básico ao Avançado</h1>
+  <h1 align="center">📊 SQL: Básico Completo</h1>
   <p align="center">
     <strong>Repositório oficial do livro — Scripts, exercícios e projeto completo</strong>
   </p>
